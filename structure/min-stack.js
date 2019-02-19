@@ -1,3 +1,9 @@
+/****************************** 
+ * Implement a stack that can do push(), pop() and min() in O(1) time
+ * 
+ * Cracking the Coding Interview pg. 98 #3.2
+ */
+
 function MinStack() {};
 
 function Node() {}

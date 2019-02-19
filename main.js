@@ -2,6 +2,7 @@
  * Data Structures
  */
 require("./spec/structure/min-stack.js");
+require("./spec/structure/queue-with-stacks.js");
 
 
 /************************************************
